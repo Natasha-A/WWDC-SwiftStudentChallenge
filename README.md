@@ -17,6 +17,5 @@
 
   ## Sample Views
   ---
-
-![Electronics Tutorial iPad Views Demo](https://i.ibb.co/647ff0S/Sample-Views.png)
+<img src="https://i.ibb.co/647ff0S/Sample-Views.png" alt="drawing" width="100%"/>
 
