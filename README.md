@@ -17,5 +17,5 @@
 
   ## Sample Views
   ---
-<img src="https://i.ibb.co/647ff0S/Sample-Views.png" alt="drawing" width="100%"/>
+<img src="https://i.postimg.cc/zB5GdRmV/Sample-Views.png" alt="drawing" width="100%"/>
 
