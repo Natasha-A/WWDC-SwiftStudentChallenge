@@ -2,12 +2,12 @@
  Submission for the WWDC 2020 Swift Student Challenge. 
  
  ## Objective
- Tasked with creating a interactive Swift Playgrounds app that can be experienced within 3 minuts. 
+ Tasked with creating an interactive Swift Playgrounds app that can be experienced within 3 minuts. 
  
  Built a simple workbook for learning the basics of electronic components, (LEDs, resistors, capacitors and transitors) to understand the physics and fundementals of circuit building. Included animations and gesture feedback using characters in order to appeal to younger kids interested in STEM and who want to explore electronics!
 
  ## Learning Outcomes  
- * Swift playgrounds is designed to teach fundamental progamming concepts to code for Apple devices
+ * Learned Swift playgrounds environment and app development structure  
  * Learned to use SwiftUI to build front-end and animations
  * Integration of iPad touch gesture recognition 
  * Practiced MVC design patterns, data formatting, navigation controllers, and classes/structs
