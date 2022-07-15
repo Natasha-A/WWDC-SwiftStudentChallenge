@@ -2,7 +2,7 @@
  Submission for the WWDC 2020 Swift Student Challenge. 
  
  ## Objective
- Tasked with creating a swift playgrounds interative experience. 
+ Tasked with creating a Swift Playgrounds interactive experience. 
  
  Built a simple workbook for learning the basics of electronic components, (LEDs, resistors, capacitors and transitors) to understand the physics and fundementals of circuit building. Included animations and gesture feedback using characters in order to appeal to younger kids interested in STEM and who want to explore electronics!
 
